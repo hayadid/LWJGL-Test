@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b2c58a56-4c07-4eef-a4ef-88d0a2ee5ce0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../LWJGL 2 TEST MAVEN/natives/OpenAL32.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LWJGL 2 TEST MAVEN/natives/OpenAL64.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LWJGL 2 TEST MAVEN/natives/jinput-dx8.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LWJGL 2 TEST MAVEN/natives/jinput-dx8_64.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LWJGL 2 TEST MAVEN/natives/jinput-raw.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LWJGL 2 TEST MAVEN/natives/jinput-raw_64.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LWJGL 2 TEST MAVEN/natives/lwjgl.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LWJGL 2 TEST MAVEN/natives/lwjgl64.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LWJGL 2 TEST MAVEN/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LWJGL 2 TEST MAVEN/src/main/java/EngineTester/MainGameLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LWJGL 2 TEST MAVEN/src/main/java/RenderEngine/DisplayManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LWJGL 2 TEST.iml" beforeDir="false" />
-    </list>
+    <list default="true" id="b2c58a56-4c07-4eef-a4ef-88d0a2ee5ce0" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
